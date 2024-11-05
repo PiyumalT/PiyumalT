@@ -5,6 +5,6 @@ Do you want to know about me? 🙃  <br>
 just visit my Portfolio 👇 <br>
      https://piyumalt.github.io/MyPortfolio/
 <br>
-Happy cording 
+Happy coding 
 <h1> 👨‍💻 👩‍💻</h1>
 
