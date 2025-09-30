@@ -1,11 +1,10 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Piyumal!;I+Build+awesome+web+apps" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Tharindu+Piyumal!;I+Build+Awesome+Web+Apps&color=00f500" />
 </p>
 
 <div align="center">
  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=piyumalt&theme=radical&border_radius=10)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=piyumalt&theme=algolia&border_radius=10)
  
 </div>
 
@@ -26,13 +25,13 @@
 
 <div align="center">
   <a href="https://piyumalt.ct.ws/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
   </a>
   <a href="mailto:piyumalt@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Outlook-4CAF50?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
   </a>
   <a href="https://linkedin.com/in/piyumalt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </div>
 
@@ -78,12 +77,12 @@
 
 ### ✨ Check out my portfolio for more! ✨
 
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=atom&logoColor=white)](https://piyumalt.ct.ws/)
+[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-4CAF50?style=for-the-badge&logo=atom&logoColor=white)](https://piyumalt.ct.ws/)
 
 </div>
 
 
 <div align="center">
   <p>Happy Coding! 💻</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
 </div>
