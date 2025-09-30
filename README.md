@@ -18,7 +18,7 @@
 - 💻 **Languages:** JavaScript, Python, Java, PHP
 - 💬 **Ask me about:** Web Development, Technology
 - 🎯 **Current Focus:** Building awesome web applications
-- 🎉 **Fun Fact:** There are two ways to write error-free programs; only the third one works
+
 
 
 ## 📫 How to reach me?
@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/>
   </a>
   <a href="mailto:piyumalt@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-4CAF50?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Outlook-1f6feb?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
   </a>
   <a href="https://linkedin.com/in/piyumalt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </div>
 
@@ -77,7 +77,7 @@
 
 ### ✨ Check out my portfolio for more! ✨
 
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-4CAF50?style=for-the-badge&logo=atom&logoColor=white)](https://piyumalt.ct.ws/)
+[![Portfolio](https://img.shields.io/badge/_Visit_My_Portfolio-4CAF50?style=for-the-badge&logo=atom&logoColor=black&labelColor=black&color=4CAF50)](https://piyumalt.ct.ws/)
 
 </div>
 
